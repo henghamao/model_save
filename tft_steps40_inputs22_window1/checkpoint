@@ -1,0 +1,2 @@
+model_checkpoint_path: "tft_steps40_inputs22_window1"
+all_model_checkpoint_paths: "tft_steps40_inputs22_window1"
